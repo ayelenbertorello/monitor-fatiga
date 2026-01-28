@@ -22,8 +22,8 @@ El proyecto está pensado como un **caso práctico de ciencia de datos aplicada 
 La app permite:
 
 * 📊 Analizar entrenamientos de running a partir de un archivo CSV
-* 📈 Calcular métricas de carga y fatiga (ATL / CTL / TSB)
-* ⚠️ Evaluar riesgo de lesión mediante el ratio **ACWR (Agudo : Crónico)**
+* 📈 Calcular métricas de carga y fatiga (ATL: carga de entrenamiento en un promedio de 7 dias Aguada/ CTL: carga de entrenamiento cronica a lo largo de 42 dias / TSB)
+* ⚠️ Evaluar riesgo de lesión mediante el ratio **ACWR (Agudo : Crónico)** definiendo un rango de clasificación 
 * ❤️ Analizar eficiencia cardíaca
 * 🧠 Mostrar recomendaciones generales según los resultados
 
